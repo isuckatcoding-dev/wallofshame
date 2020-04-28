@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c2a639e3-8b83-4691-886d-f61a71192cbf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJtWfW4j7WSXWoS2Vec8e6vFTM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/LAB2FINAL" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\amirj\Desktop\Lab 2\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="Lab 2" />
+      <option name="PROGRAM_PARAMETERS" value="10 1 500" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoubleLinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoubleLinkedListTest.addTestInOrder" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DoubleLinkedListTest" />
+      <option name="METHOD_NAME" value="addTestInOrder" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.printAllValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <option name="METHOD_NAME" value="printAllValuesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortedLinkedListTest.printAllValuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab 2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortedLinkedListTest" />
+      <option name="METHOD_NAME" value="printAllValuesTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="JUnit.DoubleLinkedListTest" />
+      <item itemvalue="JUnit.DoubleLinkedListTest.addTestInOrder" />
+      <item itemvalue="JUnit.LinkedListTest.printAllValuesTest" />
+      <item itemvalue="JUnit.SortedLinkedListTest.printAllValuesTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="JUnit.SortedLinkedListTest.printAllValuesTest" />
+        <item itemvalue="JUnit.LinkedListTest.printAllValuesTest" />
+        <item itemvalue="JUnit.DoubleLinkedListTest.addTestInOrder" />
+        <item itemvalue="JUnit.DoubleLinkedListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2a639e3-8b83-4691-886d-f61a71192cbf" name="Default Changelist" comment="" />
+      <created>1582672557851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582672557851</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="338" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587833348535">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="338" y="140" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1587833348535" />
+    <state x="543" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1586542889201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="543" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586542889201" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586188961624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1586188961624" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1587908633544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587908633544" />
+    <state width="1493" height="302" key="GridCell.Tab.0.bottom" timestamp="1587908857082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587908857082" />
+    <state width="1493" height="302" key="GridCell.Tab.0.center" timestamp="1587908857082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587908857082" />
+    <state width="1493" height="302" key="GridCell.Tab.0.left" timestamp="1587908857082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587908857082" />
+    <state width="1493" height="302" key="GridCell.Tab.0.right" timestamp="1587908857082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="302" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587908857082" />
+    <state width="1493" height="209" key="GridCell.Tab.1.bottom" timestamp="1587841813174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587841813174" />
+    <state width="1493" height="209" key="GridCell.Tab.1.center" timestamp="1587841813174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587841813174" />
+    <state width="1493" height="209" key="GridCell.Tab.1.left" timestamp="1587841813174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587841813174" />
+    <state width="1493" height="209" key="GridCell.Tab.1.right" timestamp="1587841813174">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="209" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587841813174" />
+    <state x="318" y="214" width="466" height="277" key="com.intellij.ide.util.TipDialog" timestamp="1587907340101">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="318" y="214" width="466" height="277" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587907340101" />
+    <state x="498" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586190068016">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1586190068016" />
+    <state x="563" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586964783988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="563" y="116" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1586964783988" />
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1585886635358">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="132" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1585886635358" />
+    <state x="222" y="189" width="1188" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587833741132">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="222" y="189" width="1188" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1587833741132" />
+    <state x="673" y="4" width="788" height="820" key="find.popup" timestamp="1586191175216">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="673" y="4" width="788" height="820" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586191175216" />
+    <state x="477" y="46" key="refactoring.ChangeSignatureDialog" timestamp="1587838625562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="46" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1587838625562" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1587744569530">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587744569530" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="args[1]" language="JAVA" />
+        <watch expression="args[1]" language="JAVA" />
+        <watch expression="((Queue)multiThread).Head.this$0" custom="Queue" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
